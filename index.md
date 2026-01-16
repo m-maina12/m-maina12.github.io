@@ -1,8 +1,7 @@
 ---
 title: "About me"
 layout: page
-sidebar:
-  profile:true
+author_profile: true
 ---
 
 I am a biostatistician with a background in statistical learning and applied health research.  

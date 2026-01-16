@@ -1,10 +1,8 @@
 ---
-title: "About"
+title: "About me"
 permalink: /
 layout: single
 
-sidebar:
-  profile: true
 ---
 
 I am a biostatistician with a background in statistical learning and applied health research.  

@@ -1,10 +1,7 @@
 ---
 layout: home
+author_profile: true
 ---
 
-Benvenuta/o nel mio sito GitHub Pages 🚀  
-
-Qui trovi:
-- il mio CV
-- i miei progetti
-- contatti
+Welcome!  
+I am a biostatistician with interests in statistical learning and applied health research.

@@ -63,7 +63,7 @@ author:
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/marta-mainetti-b9aba214a/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

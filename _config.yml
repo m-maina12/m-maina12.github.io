@@ -66,8 +66,6 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/m-maina12"
 
-theme: minimal-mistakes-jekyll
-
 defaults:
   # _pages
   - scope:

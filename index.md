@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: /
-layout: page
+layout: single
 
 sidebar:
   profile: true

@@ -23,20 +23,22 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2025-: Doctoral student
+  * Graduate school of Health Sciences, University of Bern, Bern (CH)
+  * Specialization: Biostatistics and Epidemiology
+  * Research ares: evidence synthesis, individualized treatment effect, clincal prediction models. 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb 2025-Apr 2025: Biostatistician
+  * IEO - European Institute of Oncology, Milan (IT)
+  * Research fellow at the Molecular-Pharmacoepidemiological Unit
+  * Research ares: radiomics, psycho-oncology
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jul 2025-Jan 2025: Visiting Graduate Student
+  * Icahn School of Medicine at Mount Sinai, New York City (US)
+  * Internship at the Department of Environmental Medicine and Climate Science
+  * Research areas: environmental medicine, lead exposure, targeted learning in clinical outcomes. 
+
+* Nov 2023-Jun 2024: Data Analyst
   
 Skills
 ======

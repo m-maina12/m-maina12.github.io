@@ -22,14 +22,14 @@ Education
 * First-level University Master in Business Intelligence & Big Data Analytics, University of Milano-Bicocca, 2023-2024
 * BSc in Statistical and Economic Sciences, University of Milano-Bicocca, 2019-2022
   * **Final grade**: 110/110 with honors
-  * **Thesis title**: Open Innovation and corporate taxonomies: a reading through managers’ behaviors andPavitt classification.
+  * **Thesis title**: Open Innovation and corporate taxonomies: a reading through managers’ behaviors and Pavitt classification.
 
 Professional and research experience
 ======
 * May 2025-: Doctoral student
   * Graduate school of Health Sciences, University of Bern, Bern (CH)
   * Specialization: Biostatistics and Epidemiology
-  * Research ares: evidence synthesis, individualized treatment effect, clincal prediction models. 
+  * Research ares: evidence synthesis, individualized treatment effect, clinical prediction models. 
 
 * Feb 2025-Apr 2025: Biostatistician
   * IEO - European Institute of Oncology, Milan (IT)

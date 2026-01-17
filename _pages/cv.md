@@ -9,11 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+Please download my cv here: https://m-maina12.github.io/files/slides1.pdf
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biostatistics and Epidemiology, University of Bern, 2025-2028 (expected)
+* Second-level University Master in Machine Learning and Big Data for precision medicine and biomedical research, University of Padova, 2026 (expected)
+* MSc in Biostatistics, University of Milano-Bicocca, 2022-2025
+* First-level University Master in Business Intelligence & Big Data Analytics, University of Milano-Bicocca, 2023-2024
+* BSc in Statistical and Economic Sciences, University of Milano-Bicocca, 2019-2022
+
 
 Work experience
 ======

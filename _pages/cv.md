@@ -42,12 +42,15 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Native language**: Italian
+* **Other languages**:
+  * English (C1, IELTS 7.5)
+  * French (B1)
+  * German (B1)
+  * Russian (A1)
+  * Korean (A1)
+* **Programming**: R, SAS, Python
+* **Database**: Relational (SQL), Non-relational (MongoDB, Neo4J)
 
 Publications
 ======
@@ -67,6 +70,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Volunteering
 ======
-* Currently signed in to 43 different slack teams
+* **Intercultura ODV**: Chair of Local Chapter in Lecco (Lecco, IT)
+* **AFS Intercultural Programs Switzerland**:Volunteer at the Local Chapter in Bern (Bern, CH)  

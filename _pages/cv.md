@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my [Curriculum Vitae](https://m-maina12.github.io/files/slides1.pdf).
+You can download my [Curriculum Vitae](https://m-maina12.github.io/files/cv.pdf).
 
 
 Education

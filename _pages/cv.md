@@ -17,11 +17,14 @@ Education
 * Ph.D in Biostatistics and Epidemiology, University of Bern, 2025-2028 (expected)
 * Second-level University Master in Machine Learning and Big Data for precision medicine and biomedical research, University of Padova, 2026 (expected)
 * MSc in Biostatistics, University of Milano-Bicocca, 2022-2025
+  * **Final grade**: 110/110 with honors
+  * **Thesis title**: Umbilical cord blood lead levels: predictions using micro-spatial child dentine measures. 
 * First-level University Master in Business Intelligence & Big Data Analytics, University of Milano-Bicocca, 2023-2024
 * BSc in Statistical and Economic Sciences, University of Milano-Bicocca, 2019-2022
+  * **Final grade**: 110/110 with honors
+  * **Thesis title**: Open Innovation and corporate taxonomies: a reading through managers’ behaviors andPavitt classification.
 
-
-Work experience
+Professional and research experience
 ======
 * May 2025-: Doctoral student
   * Graduate school of Health Sciences, University of Bern, Bern (CH)
@@ -38,7 +41,15 @@ Work experience
   * Internship at the Department of Environmental Medicine and Climate Science
   * Research areas: environmental medicine, lead exposure, targeted learning in clinical outcomes. 
 
-* Nov 2023-Jun 2024: Data Analyst
+* Nov 2023-Jun 2024: Business Intelligence Intern
+  * A.Matic SRL, Annone di Brianza (IT)
+  * Implementation of architectures of Business Intelligence and data analysis strategies 
+  * Extraction of data-driven insights from corporate data
+
+* Dec 2021-Sep 2022: DoteComune Intern
+  * Lecco Mayor Hall, Lecco (IT)
+  * Internship at the revenue office
+  * Management of office procedures and back-office support
   
 Skills
 ======

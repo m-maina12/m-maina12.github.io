@@ -2,8 +2,8 @@
 title: "Prognostic research: Concepts and Models"
 collection: teaching
 type: "Course Assistant"
-permalink: /teaching/2014-spring-teaching-1
-venue: "Graduate School of Health Sciences, University of Bern"
+permalink: /teaching/2025-fall-teaching-1
+venue: "Graduate School for Health Sciences, University of Bern"
 academic_year: "2025/2026"
 # date: 2014-01-01
 location: "Bern, CH"

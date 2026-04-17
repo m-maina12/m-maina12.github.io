@@ -7,4 +7,4 @@ collection: portfolio
 
 The aim of the assignment is ... 
 
-Here you find the [Curriculum Vitae](https://github.com/m-maina12/projects-in-R-assignment/blob/main/R-codes/script00.qmd) and the report in [html] (https://m-maina12.github.io/projects-in-R-assignment/R-codes/script00.html) 
+Here you find the [code](https://github.com/m-maina12/projects-in-R-assignment/blob/main/R-codes/script00.qmd) and the report in [html](https://m-maina12.github.io/projects-in-R-assignment/R-codes/script00.html) 

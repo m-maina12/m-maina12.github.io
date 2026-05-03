@@ -1,6 +1,6 @@
 ---
 title: "PHS Module 2: Projects in R"
-excerpt: "Assignment title"
+excerpt: "Analysis of SARS-CoV2 cases in a pediatric hospital"
 permalink: /portfolio/projects-in-R/
 collection: portfolio
 ---

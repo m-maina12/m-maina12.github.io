@@ -9,6 +9,8 @@ academic_year: "2025/2026"
 location: "Milan, IT"
 ---
 
+Lecture about systematic reviews and meta-analysis for master's students. 
+
 Download slides: [slides]
 
 Download script for R practicals: [R codes](https://github.com/m-maina12/lecture-introduction-to-meta-analysis/tree/main/Rcodes)

@@ -9,5 +9,5 @@ academic_year: "2025/2026"
 location: "Bern, CH"
 ---
 
-Course assistant at lecture for the course in Clinical models for Prognostic Research of the Public Health Sciences course at the University of Bern.
+Course assistant at lecture for the lecture in Clinical models for Prognostic Research of the Public Health Sciences course at the University of Bern.
 

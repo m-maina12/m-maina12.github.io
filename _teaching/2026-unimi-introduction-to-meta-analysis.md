@@ -2,11 +2,11 @@
 title: "Introduction to Systematic Review and Meta-Analysis"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/2025-fall-teaching-1
+permalink: /teaching/2026-spring-teaching-2
 venue: "University of Milan"
 academic_year: "2025/2026"
 # date: 2014-01-01
-location: "Bern, CH"
+location: "Milan, IT"
 ---
 
 Download slides: [slides]

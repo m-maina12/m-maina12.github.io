@@ -9,13 +9,5 @@ academic_year: "2025/2026"
 location: "Bern, CH"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Course assistant at lecture for the course in Clinical models for Prognostic Research of the Public Health Sciences course at the University of Bern.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

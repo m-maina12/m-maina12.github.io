@@ -22,7 +22,7 @@ Education
 * First-level University Master in *Business Intelligence & Big Data Analytics*, University of Milano-Bicocca, 2023-2024
 * BSc in *Statistical and Economic Sciences*, University of Milano-Bicocca, 2019-2022
   * **Final grade**: 110/110 with honors
-  * **Thesis title**: Open Innovation and corporate taxonomies: a reading through managers’ behaviors and Pavitt classification.
+  * **Thesis title**: Open Innovation and corporate taxonomies: a reading through managers’ behaviors and Pavitt classification. heck the work [here](https://m-maina12.github.io/files/triennale_850868.pdf).
 
 Professional and research experience
 ======

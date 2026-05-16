@@ -18,11 +18,11 @@ Education
 * Second-level University Master in *Machine Learning and Big Data for precision medicine and biomedical research*, University of Padova, 2026 (expected)
 * MSc in *Biostatistics*, University of Milano-Bicocca, 2022-2025
   * **Final grade**: 110/110 with honors
-  * **Thesis title**: Umbilical cord blood lead levels: predictions using micro-spatial child dentine measures. Check the work [here](https://m-maina12.github.io/files/Mainetti_Biostat_thesis.pdf).
+  * **Thesis title**: Umbilical cord blood lead levels: predictions using micro-spatial child dentine measures. Check the work [here](https://m-maina12.github.io/files/Mainetti_Biostat_thesis.pdf) (eng).
 * First-level University Master in *Business Intelligence & Big Data Analytics*, University of Milano-Bicocca, 2023-2024
 * BSc in *Statistical and Economic Sciences*, University of Milano-Bicocca, 2019-2022
   * **Final grade**: 110/110 with honors
-  * **Thesis title**: Open Innovation and corporate taxonomies: a reading through managers’ behaviors and Pavitt classification. heck the work [here](https://m-maina12.github.io/files/triennale_850868.pdf).
+  * **Thesis title**: Open Innovation and corporate taxonomies: a reading through managers’ behaviors and Pavitt classification. Check the work [here](https://m-maina12.github.io/files/triennale_850868.pdf) (ita).
 
 Professional and research experience
 ======

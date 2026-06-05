@@ -11,6 +11,6 @@ location: "Milan, IT"
 
 Lecture about systematic reviews and meta-analysis for master's students. 
 
-Download slides: [slides]
+Download slides: [slides](https://github.com/m-maina12/lecture-introduction-to-meta-analysis/tree/main/slides)
 
 Download script for R practicals: [R codes](https://github.com/m-maina12/lecture-introduction-to-meta-analysis/tree/main/Rcodes)

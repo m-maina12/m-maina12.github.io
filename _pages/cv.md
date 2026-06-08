@@ -60,7 +60,7 @@ Skills
   * German (B1)
   * Russian (A1)
   * Korean (A1)
-* **Programming**: R, SAS, Python
+* **Programming**: R, SAS, Stata, Python
 * **Database**: Relational (SQL), Non-relational (MongoDB, Neo4J)
 
 Publications
@@ -84,4 +84,4 @@ Teaching
 Volunteering
 ======
 * **Intercultura ODV**: Chair of Local Chapter in Lecco (Lecco, IT)
-* **AFS Intercultural Programs Switzerland**: Volunteer at the Local Chapter in Bern (Bern, CH)  
+  

@@ -86,8 +86,10 @@ author:
 publication_category:
   books:
     title: 'Books'
+  first-author:
+    title: 'Journal Articles: first or co-first authorship'   
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'  
   conferences:
     title: 'Conference Papers'
   preprints:

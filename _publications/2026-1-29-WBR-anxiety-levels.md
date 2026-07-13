@@ -7,7 +7,7 @@ excerpt: 'Analysis pre-post of anxiety levels of oncological patients undergoing
 date: 2026-07-01
 venue: 'Cancer Imaging'
 # slidesurl: 'https://m-maina12.github.io./files/slides1.pdf'
-paperurl: 'https://m-maina12.github.io./files/WBR-anxiety-level.pdf'
+paperurl: 'https://link.springer.com/article/10.1186/s40644-026-01060-6'
 # bibtexurl: 'https://m-maina12.github.io./files/bibtex1.bib'
 ---
 Analysis pre-post of anxiety levels of oncological patients undergoin Whole-Body Magnetic Resonance. 

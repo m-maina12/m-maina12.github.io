@@ -7,7 +7,7 @@ excerpt: 'This paper is about the first Aim of my PhD. Second Aim will follow at
 date: 2026-05-14
 venue: 'Research Square'
 # slidesurl: 'https://m-maina12.github.io./files/slides1.pdf'
-paperurl: 'https://m-maina12.github.io./files/IPD-MA_two-stage_ITE.pdf'
+paperurl: 'https://www.researchsquare.com/article/rs-9422615/v1'
 # bibtexurl: 'https://m-maina12.github.io./files/bibtex1.bib'
 ---
 This paper is about the first Aim of my PhD. Second Aim will follow at some point. 

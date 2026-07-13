@@ -1,7 +1,7 @@
 ---
 title: "Evaluation of audiovisual and auditory interventions on exam anxiety during Whole-Body Magnetic Resonance Imaging in cancer patients: A quasi-experimental study"
 collection: publications
-category: preprints
+category: manuscripts
 permalink: /publication/2026-1-29-WBR-anxiety-level
 excerpt: 'Analysis pre-post of anxiety levels of oncological patients undergoing Whole-Body Magnetic Resonance.'
 date: 2026-07-01

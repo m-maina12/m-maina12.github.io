@@ -4,8 +4,8 @@ collection: publications
 category: preprints
 permalink: /publication/2026-1-29-WBR-anxiety-level
 excerpt: 'Analysis pre-post of anxiety levels of oncological patients undergoing Whole-Body Magnetic Resonance.'
-date: 2026-1-29
-venue: 'Research Square'
+date: 2026-07-01
+venue: 'Cancer Imaging'
 # slidesurl: 'https://m-maina12.github.io./files/slides1.pdf'
 paperurl: 'https://m-maina12.github.io./files/WBR-anxiety-level.pdf'
 # bibtexurl: 'https://m-maina12.github.io./files/bibtex1.bib'

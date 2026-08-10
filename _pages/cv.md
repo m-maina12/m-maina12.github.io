@@ -68,6 +68,11 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> 
+
+Software
+======
+* R packages
+  * [_leadpred_] (https://github.com/hasdk/leadpred) 
   
 Conferences and presentations
 ======

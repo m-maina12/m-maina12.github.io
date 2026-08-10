@@ -72,7 +72,7 @@ Publications
 Software
 ======
 * R packages
-  * [_leadpred_] (https://github.com/hasdk/leadpred) 
+  * [leadpred] (https://github.com/hasdk/leadpred) 
   
 Conferences and presentations
 ======

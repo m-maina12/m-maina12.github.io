@@ -27,7 +27,7 @@ Education
 Professional and research experience
 ======
 * May 2025-: Doctoral student
-  * Graduate school of Health Sciences, University of Bern, Bern (CH)
+  * Institute of Primary Health Care (BIHAM) - Graduate school of Health Sciences, University of Bern, Bern (CH)
   * Specialization: Biostatistics and Epidemiology
   * Research ares: evidence synthesis, individualized treatment effect, clinical prediction models. 
 

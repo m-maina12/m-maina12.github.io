@@ -10,7 +10,7 @@ authors:
   - Guido Schwarzer
   - Georgia Salanti
   - Orestis Efthimiou
-excerpt: 'This paper is about the first Aim of my PhD. Second Aim will follow at some point.'
+excerpt: ''
 date: 2026-05-14
 venue: 'BMC Medical Research Methodology'
 # slidesurl: 'https://m-maina12.github.io./files/slides1.pdf'

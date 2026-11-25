@@ -4,15 +4,15 @@ collection: publications
 category: first-author
 permalink: /publication/2026-10-04-dentine-derived-lead-biomarker
 authors:
-  - Marta Mainetti
-  - Hachem Saddiki
+  - Marta Mainetti*
+  - Hachem Saddiki*
   - Sandra India Aldana
   - Martha María Téllez-Rojo
   - Libni A. Torres-Olascoaga
   - Robert O. Wright
   - Manish Arora
   - Elena Colicino
-excerpt: 'This paper is about my Master thesis.'
+excerpt: ''
 date: 2026-10-04
 venue: 'Environmental Advances'
 # slidesurl: 'https://m-maina12.github.io./files/slides1.pdf'

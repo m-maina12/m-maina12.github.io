@@ -11,7 +11,7 @@ authors:
   - Cristiana Iuliana Fodor
   - G. A. Petralia
   - Gabriella Pravettoni
-excerpt: 'Analysis pre-post of anxiety levels of oncological patients undergoing Whole-Body Magnetic Resonance.'
+excerpt: ''
 date: 2026-07-01
 venue: 'Cancer Imaging'
 # slidesurl: 'https://m-maina12.github.io./files/slides1.pdf'

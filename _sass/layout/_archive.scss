@@ -54,7 +54,7 @@
 
   .archive__item-title {
     margin: 0 0 0.05em;
-    font-size: 1.35em;
+    font-size: 1.125em;
     line-height: 1.25;
   }
 
@@ -82,7 +82,7 @@
 .archive__item--teaching {
   .archive__item-title {
     margin: 0 0 0.05em;
-    font-size: 1.35em;
+    font-size: 1.125em;
     line-height: 1.25;
   }
 
@@ -106,6 +106,13 @@
   .archive__item-authors {
     margin: 0 0 0.4em;
     font-size: 0.85em;
+  }
+}
+
+.archive__item--talk {
+  .archive__item-title {
+    font-size: 1.125em;
+    line-height: 1.25;
   }
 }
 

@@ -27,7 +27,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
@@ -40,7 +40,7 @@ jobs:
           bundle exec jekyll build
 
       - name: Set up Chrome
-        uses: browser-actions/setup-chrome@v1
+        uses: browser-actions/setup-chrome@v2
         id: chrome
 
       - name: Print the CV to PDF
@@ -67,7 +67,7 @@ jobs:
           test -s files/cv.pdf
 
       - name: Open a pull request with the updated PDF
-        uses: peter-evans/create-pull-request@v7
+        uses: peter-evans/create-pull-request@v8
         with:
           branch: automation/generate-cv-pdf
           delete-branch: true

@@ -63,9 +63,8 @@ Skills
 * **Programming**: R, SAS, Stata, Python
 * **Database**: Relational (SQL), Non-relational (MongoDB, Neo4J)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
+<h1 class="cv-publications-heading">Publications</h1>
+  <ul class="cv-publications-list">{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> 
 
@@ -74,19 +73,16 @@ Software
 * R packages
   * [_leadpred_](https://github.com/hasdk/leadpred) 
   
-Conferences and presentations
-======
-  <ul>{% for post in site.talks reversed %}
+<h1 class="cv-presentations-heading">Conferences and presentations</h1>
+  <ul class="cv-presentations-list">{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
+<h1 class="cv-teaching-heading">Teaching</h1>
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Volunteering
-======
+<h1 class="cv-volunteering-heading">Volunteering</h1>
 * **Intercultura ODV**: Chair of Local Chapter in Lecco (Lecco, IT)
   

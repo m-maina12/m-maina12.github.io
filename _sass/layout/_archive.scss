@@ -97,16 +97,46 @@
 }
 
 .archive__item--cv-publication {
+  margin-bottom: 0.35em;
+
   .archive__item-title {
-    margin-bottom: 0.15em;
-    font-size: 1.15em;
-    line-height: 1.3;
+    margin: 0 0 0.1em;
+    font-size: 0.9em;
+    line-height: 1.25;
   }
 
   .archive__item-authors {
-    margin: 0 0 0.4em;
-    font-size: 0.85em;
+    margin: 0 0 0.15em;
+    font-size: 0.8em;
   }
+
+  .archive__item-excerpt {
+    font-size: 0.8em;
+  }
+}
+
+.archive__item--cv-talk {
+  .archive__item-title {
+    margin: 0 0 0.1em;
+    font-size: 1.125em;
+    line-height: 1.25;
+  }
+}
+
+.cv-publications-heading,
+.cv-presentations-heading,
+.cv-teaching-heading,
+.cv-volunteering-heading {
+  margin-bottom: 0.2em;
+}
+
+.cv-publications-list,
+.cv-presentations-list {
+  margin-top: 0;
+}
+
+.cv-publications-list li {
+  margin-bottom: 0.15em;
 }
 
 .archive__item--talk {

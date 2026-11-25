@@ -13,7 +13,7 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item{% if post.collection == 'publications' or post.collection == 'preprint' %} archive__item--publication{% elsif post.collection == 'teaching' %} archive__item--teaching{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item{% if post.collection == 'publications' or post.collection == 'preprint' %} archive__item--publication{% elsif post.collection == 'teaching' %} archive__item--teaching{% elsif post.collection == 'portfolio' %} archive__item--portfolio{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=

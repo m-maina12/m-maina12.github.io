@@ -50,12 +50,12 @@
 }
 
 .archive__item--publication {
-  margin-bottom: 0.75em;
+  margin-bottom: 1.5em;
 
   .archive__item-title {
     margin: 0 0 0.05em;
-    font-size: 1.15em;
-    line-height: 1.2;
+    font-size: 1.35em;
+    line-height: 1.25;
   }
 
   p {
@@ -71,6 +71,23 @@
 
   p + p {
     margin-top: 0.05em;
+  }
+}
+
+.archive__item--teaching {
+  .archive__item-title {
+    margin: 0 0 0.05em;
+    font-size: 1.35em;
+    line-height: 1.25;
+  }
+
+  p {
+    margin: 0;
+    line-height: 1.35;
+  }
+
+  .archive__item-excerpt {
+    margin-top: 0.15em;
   }
 }
 

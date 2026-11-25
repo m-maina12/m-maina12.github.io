@@ -49,6 +49,22 @@
   }
 }
 
+.archive__item--publication {
+  .archive__item-title {
+    margin: 0 0 0.2em;
+    line-height: 1.25;
+  }
+
+  p {
+    margin: 0.15em 0 0;
+    line-height: 1.35;
+  }
+
+  .archive__item-excerpt {
+    margin-top: 0.15em;
+  }
+}
+
 /* remove border*/
 .page__content {
 

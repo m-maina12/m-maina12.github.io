@@ -41,10 +41,23 @@ layout: default
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}    
+        {% if page.collection == 'publications' or page.collection == 'preprint' %}
+          {% if page.authors %}<p class="page__authors">{{ page.authors | join: ", " }}</p>{% endif %}
+        {% endif %}
         </header>
       {% endunless %}
 
       <section class="page__content" itemprop="text">
+        {% if page.collection == 'publications' or page.collection == 'preprint' %}
+          {% if page.abstract %}
+            <h2>Abstract</h2>
+            {{ page.abstract | markdownify }}
+          {% endif %}
+          {% if page.paperurl %}
+            <p><a href="{{ page.paperdownloadurl | default: page.paperurl }}" class="btn">Download Paper</a></p>
+          {% endif %}
+        {% endif %}
+
         {{ content }}
 
         {% if page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}

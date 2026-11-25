@@ -1,0 +1,111 @@
+.cv-print-header {
+  display: none;
+}
+
+@media print {
+  @page {
+    size: A4;
+    margin: 15mm 16mm;
+  }
+
+  html,
+  body {
+    background: #fff !important;
+    color: #111 !important;
+    font-family: Georgia, "Times New Roman", serif !important;
+    font-size: 9pt !important;
+    line-height: 1.2 !important;
+  }
+
+  #main {
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    animation: none !important;
+  }
+
+  #main > .archive {
+    float: none !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .masthead,
+  .sidebar,
+  .page__title,
+  .page__footer,
+  .cv-download-link,
+  .pagination,
+  .page__related,
+  #footer {
+    display: none !important;
+  }
+
+  .cv-print-header {
+    display: block !important;
+    margin: 0 0 1em;
+    text-align: center;
+
+    h1 {
+      margin: 0 0 4pt;
+      font-size: 18pt;
+      line-height: 1.1;
+    }
+
+    p {
+      margin: 0;
+      font-size: 8.5pt;
+    }
+
+    .cv-print-updated {
+      margin-bottom: 0.3em;
+      text-align: right;
+      font-size: 8pt;
+      font-style: italic;
+    }
+  }
+
+  .archive > h1:not(.page__title) {
+    margin: 0.9em 0 0.25em;
+    padding-bottom: 2pt;
+    border-bottom: 0.6pt solid #222;
+    font-size: 10pt;
+    line-height: 1.15;
+    break-after: avoid;
+  }
+
+  .archive p,
+  .archive li {
+    color: #111 !important;
+    font-size: 9pt !important;
+    line-height: 1.2 !important;
+  }
+
+  .archive p {
+    margin: 0 0 2pt !important;
+  }
+
+  .archive ul {
+    margin: 2pt 0 4pt !important;
+    padding-left: 14pt !important;
+  }
+
+  .archive li {
+    margin-bottom: 2pt !important;
+    break-inside: avoid;
+  }
+
+  .archive .archive__item-title {
+    margin: 0 0 2pt !important;
+    color: #111 !important;
+    font-size: 9.5pt !important;
+    line-height: 1.2 !important;
+    break-after: avoid;
+  }
+
+  .archive a {
+    color: inherit !important;
+    text-decoration: none !important;
+  }
+}

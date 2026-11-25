@@ -13,7 +13,7 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item{% if post.collection == 'publications' or post.collection == 'preprint' %} archive__item--cv-publication{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item{% if post.collection == 'publications' or post.collection == 'preprint' %} archive__item--cv-publication{% elsif post.collection == 'teaching' %} archive__item--cv-teaching{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
     <li>
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
@@ -37,7 +37,13 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
+    {% if post.collection == 'publications' or post.collection == 'preprint' %}
+      {% if post.venue or post.date %}
+        <p class="archive__item-excerpt" itemprop="description">{{ post.venue }}{% if post.venue and post.date %}, {% endif %}{% if post.date %}{{ post.date | date: "%Y" }}{% endif %}</p>
+      {% endif %}
+    {% elsif post.venue %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p>
+    {% endif %}
     </li>
  </article>
 </div>

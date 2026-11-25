@@ -101,7 +101,7 @@
 
   .archive__item-title {
     margin: 0 0 0.1em;
-    font-size: 0.9em;
+    font-size: 1.05em;
     line-height: 1.25;
   }
 
@@ -123,6 +123,12 @@
   }
 }
 
+.archive__item--cv-teaching {
+  .archive__item-title {
+    margin-top: 0;
+  }
+}
+
 .cv-publications-heading,
 .cv-presentations-heading,
 .cv-teaching-heading,
@@ -131,7 +137,8 @@
 }
 
 .cv-publications-list,
-.cv-presentations-list {
+.cv-presentations-list,
+.cv-teaching-list {
   margin-top: 0;
 }
 

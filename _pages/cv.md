@@ -9,7 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my [Curriculum Vitae](https://m-maina12.github.io/files/cv.pdf).
+<div class="cv-print-header">
+  <p class="cv-print-updated">Last update: {{ site.time | date: "%B %Y" }}</p>
+  <h1>{{ site.author.name }}</h1>
+  <p>{{ site.author.email }} &nbsp; | &nbsp; ORCID: <a href="{{ site.author.orcid }}">{{ site.author.orcid | remove: "https://orcid.org/" }}</a></p>
+</div>
+
+<p class="cv-download-link">You can download my <a href="https://m-maina12.github.io/files/cv.pdf">Curriculum Vitae</a>.</p>
 
 
 Education
@@ -79,7 +85,7 @@ Software
   {% endfor %}</ul>
   
 <h1 class="cv-teaching-heading">Teaching</h1>
-  <ul>{% for post in site.teaching reversed %}
+  <ul class="cv-teaching-list">{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   

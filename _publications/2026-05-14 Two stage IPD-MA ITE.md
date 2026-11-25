@@ -3,6 +3,13 @@ title: "A general framework for using two-stage meta-analysis with individual pa
 collection: publications
 category: first-author
 permalink: /publication/2026-05-14-two-stage-IPD-MA-ITE
+authors:
+  - Marta Mainetti
+  - Konstantina Chalkou
+  - Frederik Luca Philipona
+  - Guido Schwarzer
+  - Georgia Salanti
+  - Orestis Efthimiou
 excerpt: 'This paper is about the first Aim of my PhD. Second Aim will follow at some point.'
 date: 2026-05-14
 venue: 'BMC Medical Research Methodology'

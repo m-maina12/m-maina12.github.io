@@ -3,6 +3,11 @@ title: "Estimating heterogeneous treatment effects from randomised trials: a com
 collection: preprint
 category: manuscripts
 permalink: /publication/2026-09-18-HTE-from-RCTs
+authors:
+  - Frederik Luca Philipona
+  - Marta Mainetti
+  - Orestis Efthimiou
+  - Georgia Salanti
 excerpt: ''
 date: 2026-09-18
 venue: 'arXiv'

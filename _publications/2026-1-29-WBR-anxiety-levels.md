@@ -3,6 +3,14 @@ title: "Evaluation of audiovisual and auditory interventions on exam anxiety dur
 collection: publications
 category: manuscripts
 permalink: /publication/2026-1-29-WBR-anxiety-level
+authors:
+  - Lorenzo Conti
+  - Paul Summers
+  - Marta Mainetti
+  - Sara Gandini
+  - Cristiana Iuliana Fodor
+  - G. A. Petralia
+  - Gabriella Pravettoni
 excerpt: 'Analysis pre-post of anxiety levels of oncological patients undergoing Whole-Body Magnetic Resonance.'
 date: 2026-07-01
 venue: 'Cancer Imaging'

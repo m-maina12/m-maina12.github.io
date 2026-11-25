@@ -3,6 +3,15 @@ title: "Dentine-derived lead exposure biomarker at birth: an estimation of cord 
 collection: publications
 category: first-author
 permalink: /publication/2026-10-04-dentine-derived-lead-biomarker
+authors:
+  - Marta Mainetti
+  - Hachem Saddiki
+  - Sandra India Aldana
+  - Martha María Téllez-Rojo
+  - Libni A. Torres-Olascoaga
+  - Robert O. Wright
+  - Manish Arora
+  - Elena Colicino
 excerpt: 'This paper is about my Master thesis.'
 date: 2026-10-04
 venue: 'Environmental Advances'
